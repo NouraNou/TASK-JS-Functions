@@ -16,9 +16,9 @@ printName("Noura");
  * - and prints the age on the screen.
  * - Age = current year - birth
  */
-let currentYear = 2023;
 
 function printName(birthYear) {
+  let currentYear = 2023;
   Age = currentYear - birthYear;
   console.log(Age);
 }
